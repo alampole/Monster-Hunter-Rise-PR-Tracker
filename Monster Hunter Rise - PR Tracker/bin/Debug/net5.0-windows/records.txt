@@ -1,0 +1,11 @@
+Grizzly Glutton,Sword_and_Shield,Time_Attack,1,1,1
+Can't Stomach the Thought,Light_Bowgun,Freestyle,1,1,1
+,Sword_and_Shield,Time_Attack,0,0,0
+Rabid Rabbit,Heavy_Bowgun,Freestyle,1,1,1
+Fightin' Dirty,Sword_and_Shield,Freestyle,1,1,1
+Walking on Eggshells,Long_Sword,Freestyle,1,1,1
+Grizzly Glutton,Sword_and_Shield,Freestyle,2,1,1
+Grizzly Glutton,Sword_and_Shield,Freestyle,2,1,1
+Grizzly Glutton,Dual_Blades,Freestyle,1,1,1
+Skies Flash, Clouds Boom,Sword_and_Shield,Freestyle,5,33,5
+Skies Flash, Clouds Boom,Sword_and_Shield,Freestyle,4,4,91

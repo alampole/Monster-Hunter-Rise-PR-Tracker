@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Monster Hunter Rise - PR Tracker/1.0.0": {
+        "runtime": {
+          "Monster Hunter Rise - PR Tracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monster Hunter Rise - PR Tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.exe
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.deps.json
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.runtimeconfig.json
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.runtimeconfig.dev.json
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.dll
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\ref\Monster Hunter Rise - PR Tracker.dll
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\bin\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.pdb
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.csprojAssemblyReference.cache
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster_Hunter_Rise___PR_Tracker.MainForm.resources
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.csproj.GenerateResource.cache
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.AssemblyInfoInputs.cache
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.AssemblyInfo.cs
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.dll
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\ref\Monster Hunter Rise - PR Tracker.dll
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.pdb
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster Hunter Rise - PR Tracker.genruntimeconfig.cache
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster_Hunter_Rise___PR_Tracker.OptionsForm.resources
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster_Hunter_Rise___PR_Tracker.NewRunForm.resources
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster_Hunter_Rise___PR_Tracker.Warning.resources
+C:\Users\Lex\source\repos\Monster Hunter Rise - PR Tracker\Monster Hunter Rise - PR Tracker\obj\Debug\net5.0-windows\Monster_Hunter_Rise___PR_Tracker.InfoForm.resources
